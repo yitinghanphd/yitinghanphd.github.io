@@ -16,4 +16,4 @@ I am a Ph.D. candidate in the interdisciplinary program of Second Language Acqui
 I use both qualitative and quantitative methods in my research and my approaches are influenced by complexity theory and ecological perspectives.
 
 ## Contact Me
-You can reach me at [yitinghan@email.arizona.edu](mailto:yitinghan@email.arizona.edu).
+You can reach me at [yitinghan@email.arizona.edu](mailto:yitinghan@email.arizona.edu). You can also find me on [Academia.edu](https://arizona.academia.edu/YITINGHAN).
