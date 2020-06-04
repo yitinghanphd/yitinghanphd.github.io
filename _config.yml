@@ -1,0 +1,20 @@
+theme: minima
+
+title: Yiting Han, PhD Candidate
+author:
+  name: Yiting Han
+  email: yitinghan@email.arizona.edu
+
+minima:
+  skin: dark
+  date_format: "%-d %b, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter:  yitinghan1
+
+header_pages:
+  - index.md
+  - publications.md
+  - cv.md
+  - blog.md
