@@ -3,7 +3,7 @@ layout: default
 title: CV
 permalink: /cv/
 ---
-## Publications
+## CV
 
 ### EDUCATION
 
