@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Publications
 ### Articles in Refereed Journals   
-Han, Y. (in press, expected 2020). Connecting the past to the future of computer-assisted language learning: Theory, practice, and research. *Issues and Trends in Learning Technologies, 8*(1).
+[Han, Y. (2020). Connecting the past to the future of computer-assisted language learning: Theory, practice, and research. *Issues and Trends in Learning Technologies, 8*(1).](https://journals.uair.arizona.edu/index.php/itet/article/view/23207)
 
 [Han, Y. (2019). Memeing to learning: Exploring meaning-making in a language-learning chat group. *Technology in Language Teaching & Learning, 1*(2), 68–90.](https://www.castledown.com.au/journals/tltl/article/?reference=191)
 
