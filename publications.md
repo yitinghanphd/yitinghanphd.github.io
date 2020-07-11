@@ -23,4 +23,4 @@ Smith, B. E., & Han, Y. Sonic communities: Connecting, persuading, and empowerin
 
 Reinhardt, J., Vonie, M., & Han, Y. Language learning beyond the classroom: An historical perspective. In Reinders, H., Lai, C., & Sundqvist, P. (eds.), *The Routledge Handbook of Language Learning and Teaching Beyond the Classroom*.
 
-Han. Complexity, autonomy, and identity: A complexity theory inspired case study.
+Han,Y., & Reinhardt, J. Complexity, autonomy, and identity: A complexity theory inspired case study.
