@@ -15,7 +15,7 @@ Minor in Technology-Enhanced Learning
 
 Advisor: [Dr. Jonathon Reinhardt](https://english.arizona.edu/people/jonathon-s-reinhardt)
 
-Dissertation: Navigating language learning in the ‘digital wilds’: Complexity, autonomy, and identity (Defense in Dec 2020)
+Dissertation: Successful language learning in the ‘digital wilds’: Complexity, autonomy, and identity (Defended)
 
 2017  **Carnegie Mellon University, Pittsburgh, PA, USA**
 
