@@ -19,8 +19,8 @@ Reinhardt, J., & Han, Y. (in press, expected 2020). Learnful L2 gaming: The wisd
 Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R. Sadler (Eds.), *New Ways in Teaching with Games* (pp. 207-209). Alexandria, VA: TESOL Press.  
 
 ### In Preparation
-Smith, B. E., & Han, Y. Sonic communities: Connecting, persuading, and empowering through multimodal composing in multilingual classrooms.
+Smith, B. E., & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
 
-Reinhardt, J., Vonie, M., & Han, Y. Language learning beyond the classroom: An historical perspective. In Reinders, H., Lai, C., & Sundqvist, P. (eds.), *The Routledge Handbook of Language Learning and Teaching Beyond the Classroom*.
+Reinhardt, J., & Han, Y. Language learning beyond the classroom: An historical perspective. In Reinders, H., Lai, C., & Sundqvist, P. (eds.), *The Routledge Handbook of Language Learning and Teaching Beyond the Classroom*.
 
-Han,Y., & Reinhardt, J. Complexity, autonomy, and identity: A complexity theory inspired case study.
+Han,Y., & Reinhardt, J. Successful language learning in the digital wilds: A complexity theory inspired case study.
