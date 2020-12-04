@@ -24,3 +24,5 @@ Smith, B. E., & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Eng
 Reinhardt, J., & Han, Y. Language learning beyond the classroom: An historical perspective. In Reinders, H., Lai, C., & Sundqvist, P. (eds.), *The Routledge Handbook of Language Learning and Teaching Beyond the Classroom*.
 
 Han,Y., & Reinhardt, J. Successful language learning in the digital wilds: A complexity theory inspired case study.
+
+Han,Y. Understanding trajectories of emergence in language learning.
