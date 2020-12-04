@@ -33,7 +33,7 @@ Research Associate, Bilingual Multimodal Composing Project (PI: [Dr. Blaine Smit
 
 2019  **University of Arizona, Tucson, AZ, USA**
 
-Teaching Associate, LING/PSY 341-Children’s Language Development (Spring 2019)
+Co-instructor (Teaching Associate), LING/PSY 341-Children’s Language Development + Multimedia (Spring 2019)
 
 2017-2018  **University of Arizona, Tucson, AZ, USA**
 
