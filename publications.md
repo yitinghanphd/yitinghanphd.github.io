@@ -19,12 +19,12 @@ Reinhardt, J., & Han, Y. (in press, 2021). Learnful L2 gaming: The wisdom of the
 Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R. Sadler (Eds.), *New Ways in Teaching with Games* (pp. 207-209). Alexandria, VA: TESOL Press.  
 
 ### In Preparation
-Smith, B. E. & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
+Han,Y., & Reinhardt, J. (abstract accepted for special issue). Autonomy in the digital wilds: Agency, awareness, and selfefficacy in the development of L2 digital identities.
 
-Han, Y. & Smith, B. E. Affordances and challenges of memes for fruitful language learning: An ecological perspective.
+Han, Y. (accepted). Understanding multilingual young adults and adolescents' digital literacies in the wilds: Implications for language and literacy classrooms.
 
-Han,Y. & Reinhardt, J. Autonomy in the digital wilds: Agency, awareness, and selfefficacy in the development of L2 digital identities.
+Smith, B. E., & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
 
-Han, Y. Understanding multilingual young adults and adolescents' digital literacies in the wilds: Implications for language and literacy classrooms.
+Han, Y., & Smith, B. E. Affordances and challenges of memes for fruitful language learning: An ecological perspective.
 
 Han, Y. Understanding Trajectories of Emergence from a Complexity Perspective.
