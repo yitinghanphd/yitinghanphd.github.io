@@ -26,9 +26,6 @@ M.A. in Applied Second Language Acquisition
 B.A. in Hispanic Studies and Spanish Literature
 
 ### PROFESSIONAL EXPERIENCE
-2021  **Singapore University of Social Sciences**
-
-Course Developer
 
 2018-2019  **University of Arizona, Tucson, AZ, USA**
 
@@ -40,7 +37,7 @@ Co-instructor (Teaching Associate), LING/PSY 341-Children’s Language Developme
 
 2017-2018  **University of Arizona, Tucson, AZ, USA**
 
-Instructor, SPAN 101-Beginning Spanish (Fall 2017); SPAN 101-Beginning Spanish (Spring 2018)
+Instructor of Record, SPAN 101-Beginning Spanish (Fall 2017); SPAN 101-Beginning Spanish (Spring 2018)
 
 ### CONFERENCE PRESENTATIONS
 
