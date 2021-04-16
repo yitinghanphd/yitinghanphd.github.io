@@ -15,5 +15,7 @@ I received my Ph.D. from the interdisciplinary program of Educational Applied Li
 
 I use both qualitative and quantitative methods in my research and my approaches are influenced by complexity theory and ecological perspectives.
 
+I will be joining [National Institute of Education (Singapore)](https://nie.edu.sg/) as a research fellow in Learning Sciences and Assessment Academic Group.
+
 ## Contact Me
 You can reach me at [yitinghan@email.arizona.edu](mailto:yitinghan@email.arizona.edu). You can also find me on [Academia.edu](https://arizona.academia.edu/YITINGHAN).
