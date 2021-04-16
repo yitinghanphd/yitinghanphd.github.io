@@ -27,6 +27,10 @@ B.A. in Hispanic Studies and Spanish Literature
 
 ### PROFESSIONAL EXPERIENCE
 
+2021-      **National Institute of Education, Nanyang Technological University, Singapore**
+
+Research Fellow
+
 2018-2019  **University of Arizona, Tucson, AZ, USA**
 
 Research Associate, Bilingual Multimodal Composing Project (PI: [Dr. Blaine Smith](https://www.coe.arizona.edu/blaine-e-smith))   
