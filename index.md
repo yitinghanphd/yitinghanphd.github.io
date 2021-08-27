@@ -18,4 +18,4 @@ I use both qualitative and quantitative methods in my research. My approaches ar
 I joined [National Institute of Education (Singapore)](https://nie.edu.sg/) as a research fellow in Learning Sciences and Assessment Academic Group in 2021.
 
 ## Contact Me
-You can reach me at [yiting.han@nie.edu.sg](mailto:yiting.han@nie.edu.sg). You can also find me on [Academia.edu](https://nanyang.academia.edu/YitingHan).
+You can reach me at [yiting.han@nie.edu.sg](mailto:yiting.han@nie.edu.sg). You can also find me on [Academia.edu](https://nanyang.academia.edu/YitingHan) and [Researchgate](https://www.researchgate.net/profile/Yiting-Han).
