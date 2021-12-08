@@ -19,8 +19,7 @@ permalink: /publications/
 [Han, Y. (2019). Chinese L2 users as active social agents: Sentence final particles variation and identities. *Applied Pragmatics, 1*(1), 46–67.](https://benjamins.com/catalog/ap.00003.han)
 
 ### Book Chapters
-Reinhardt, J., & Han, Y. (in press, 2021). Learnful L2 gaming: The wisdom of the wild. In Fuchs. C., Dooly, M. & Hauck, M. (Eds.), *Language Education in Digital Spaces: Perspectives on Autonomy and Interaction*. Berlin: Springer.
-
+[Reinhardt, J., & Han, Y. (2021). Learnful L2 gaming: The wisdom of the wild. In Fuchs. C., Dooly, M. & Hauck, M. (Eds.), *Language Education in Digital Spaces: Perspectives on Autonomy and Interaction*. Berlin: Springer.](https://link.springer.com/chapter/10.1007/978-3-030-74958-3_9)
 Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R. Sadler (Eds.), *New Ways in Teaching with Games* (pp. 207-209). Alexandria, VA: TESOL Press.  
 
 ### In Preparation
