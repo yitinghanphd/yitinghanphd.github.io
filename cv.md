@@ -27,7 +27,11 @@ B.A. in Hispanic Studies and Spanish Literature
 
 ### PROFESSIONAL EXPERIENCE
 
-2021-      **National Institute of Education, Nanyang Technological University, Singapore**
+2021-present     **Centre for Teaching Excellence, Singapore Management University**
+
+Learning Designer
+
+2021      **National Institute of Education, Nanyang Technological University, Singapore**
 
 Research Fellow
 
