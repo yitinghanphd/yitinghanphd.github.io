@@ -16,4 +16,4 @@ I received my Ph.D. from the interdisciplinary program of [Second Language Acqui
 I joined [Centre for Teaching Excellence at Singapore Management University](https://cte.smu.edu.sg/about-us/team) as a learning designer and educational developer in 2021. I work with faculty on course design, active learning, and innovative teaching practices for the university-wide blended learning initiative through consultations, workshops, and collaborations. I also work with faculty on educational research through consultations and collaborations at Singapore Management University.
 
 ## Contact Me
-You can reach me at [yitinghan@smu.edu.sg](mailto:yitinghan@smu.edu.sg). You can also find me on [Academia.edu](https://smu-sg.academia.edu/YitingHan) and [Researchgate](https://www.researchgate.net/profile/Yiting-Han).
+You can reach me at [yitinghan@smu.edu.sg](mailto:yitinghan@smu.edu.sg). You can also find me on [Academia.edu](https://smu-sg.academia.edu/YitingHan), [Researchgate](https://www.researchgate.net/profile/Yiting-Han) and [Google Scholar](https://scholar.google.com/citations?user=33RFwjsAAAAJ&hl=en).
