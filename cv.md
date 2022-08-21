@@ -27,7 +27,11 @@ B.A. in Hispanic Studies and Spanish Literature
 
 ### PROFESSIONAL EXPERIENCE
 
-2021-present     **Centre for Teaching Excellence, Singapore Management University**
+2022-present     **Singapore Centre for Chinese Language, Nanyang Technological University, Singapore**
+
+Lecturer
+
+2021-2022     **Centre for Teaching Excellence, Singapore Management University**
 
 Learning Designer
 
