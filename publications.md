@@ -25,6 +25,10 @@ permalink: /publications/
 
 Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R. Sadler (Eds.), *New Ways in Teaching with Games* (pp. 207-209). Alexandria, VA: TESOL Press.  
 
+### Conference proceedings
+
+[Chen, W., Han, Y., Lyu, Q., Tan, J. S. H., Chai, A. S. C., & Su, J. (2022). Deepening students' understanding of socio-scientific issues through graph-oriented computer supported collaborative argumentation: An exploratory study. *15th International Conference on Computer-Supported Collaborative Learning (CSCL) – Proceedings*, 115-122.](https://repository.nie.edu.sg/handle/10497/24340)
+
 ### In Preparation
 
 Han, Y., & Smith, B. E. (revise and resubmit). An ecological perspective of the use of memes for language learning. 
@@ -33,4 +37,4 @@ Chen, W., Han, Y., Tan, J., Lyu, Q., & Chai, A. (under review). Computer-support
 
 Smith, B. E., & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
 
-Han, Y. Understanding Trajectories of Emergence from a Complexity Perspective.
+
