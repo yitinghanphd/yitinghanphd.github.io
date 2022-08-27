@@ -6,7 +6,7 @@ permalink: /publications/
 ## Publications
 ### Articles in Refereed Journals
 
-[Han,Y., & Reinhardt, J. (2022). Autonomy in the digital wilds: Agency, competence, and self-efficacy in the development of L2 digital identities.*TESOL Quarterly*. (advanced online version, SSCI, Impact Factor = 3.69)](https://onlinelibrary.wiley.com/doi/10.1002/tesq.3142)
+[Han,Y., & Reinhardt, J. (2022). Autonomy in the digital wilds: Agency, competence, and self-efficacy in the development of L2 digital identities.*TESOL Quarterly, 56*(3), 985–1015. https://doi.org/10.1002/tesq.3142 (SSCI, Impact Factor = 3.69)](https://onlinelibrary.wiley.com/doi/10.1002/tesq.3142)
 
 [Han Y.(2021). Understanding multilingual young adults and adolescents' digital literacies in the wilds: Implications for language and literacy classrooms. *Issues and Trends in Learning Technologies 9*(1), 27-46. doi: https://doi.org/10.2458/azu_itlt_v9i1_han](https://journals.librarypublishing.arizona.edu/itlt/article/id/2277/)
 
