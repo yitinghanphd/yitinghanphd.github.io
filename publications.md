@@ -31,7 +31,7 @@ Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R
 
 ### In Preparation
 
-Han, Y., & Smith, B. E. (revise and resubmit). An ecological perspective of the use of memes for language learning. 
+Han, Y., & Smith, B. E. (accepted, *Language Learning & Technology*). An ecological perspective of the use of memes for language learning. 
 
 Chen, W., Han, Y., Tan, J., Lyu, Q., & Chai, A. (under review). Computer-supported collaborative argumentation for socioscientific issues in a secondary literacy classroom.
 
