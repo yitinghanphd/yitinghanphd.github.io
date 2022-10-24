@@ -16,7 +16,7 @@ permalink: /publications/
 
 [Han, Y. (2019). Memeing to learning: Exploring meaning-making in a language-learning chat group. *Technology in Language Teaching & Learning, 1*(2), 68–90.](https://www.castledown.com.au/journals/tltl/article/?reference=191)
 
-[Han, Y. (2019). Exploring multimedia, mobile learning, and place-based learning in linguacultural education. *Language Learning & Technology, 23*(3), 29–38. (SSCI, Impact Factor = 4.31)](https://www.lltjournal.org/item/3116)
+[Han, Y. (2019). Exploring multimedia, mobile learning, and place-based learning in linguacultural education. *Language Learning & Technology, 23*(3), 29–38. (SSCI, Impact Factor = 4.31)](https://www.lltjournal.org/item/10125-44692/)
 
 [Han, Y. (2019). Chinese L2 users as active social agents: Sentence final particles variation and identities. *Applied Pragmatics, 1*(1), 46–67.](https://benjamins.com/catalog/ap.00003.han)
 
