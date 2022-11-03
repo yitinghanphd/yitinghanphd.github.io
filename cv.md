@@ -83,6 +83,8 @@ Studies in Self-Access Learning Journal
 
 Journal of Second Language Acquisition and Teaching
 
+[The Journal of Chinese Language Education](https://www.sccl.sg/en/jcle/jcle/jcle-issues.html)
+
 ### PROFESSIONAL AFFILIATIONS
 
 Member, American Association for Applied Linguistics
