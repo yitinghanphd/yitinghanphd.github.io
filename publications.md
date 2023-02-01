@@ -31,10 +31,12 @@ Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R
 
 ### In Preparation
 
-Han, Y., & Smith, B. E. (accepted, *Language Learning & Technology*). An ecological perspective of the use of memes for language learning. 
+Han, Y., & Smith, B. E. (in press, *Language Learning & Technology*). An ecological perspective on the use of memes for language learning. 
 
-Chen, W., Han, Y., Tan, J., Lyu, Q., & Chai, A. (under review). Computer-supported collaborative argumentation for socioscientific issues in a secondary literacy classroom.
+Chen, W., Han, Y., Tan, J., Lyu, Q., & Chai, A. (revise and resubmit). Computer-supported collaborative argumentation for socioscientific issues in a secondary literacy classroom.
 
-Smith, B. E., & Han, Y. “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
+Han, Y., & Gou, H. (book chapter under contract). Developing critical awareness and regaining personal agency: Autonomous language learning as a personal liberating process.
+
+Smith, B. E., & Han, Y. (in preparation) “Somos Iguales”: Multilingual Youth’s Critical Engagement through Storytelling with Sound.
 
 
