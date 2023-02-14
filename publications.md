@@ -6,6 +6,8 @@ permalink: /publications/
 ## Publications 学术发表
 ### Articles in Refereed Journals
 
+[Han, Y., & Smith, B. E. (2023). An ecological perspective on the use of memes for language learning. *Language Learning & Technology, 27*(2), 155–175. https://hdl.handle.net/10125/73507 (SSCI, Impact Factor = 4.31)](https://www.lltjournal.org/item/10125-73507/)
+
 [Han,Y., & Reinhardt, J. (2022). Autonomy in the digital wilds: Agency, competence, and self-efficacy in the development of L2 digital identities.*TESOL Quarterly, 56*(3), 985–1015. https://doi.org/10.1002/tesq.3142 (SSCI, Impact Factor = 3.69)](https://onlinelibrary.wiley.com/doi/10.1002/tesq.3142)
 
 [Han Y.(2021). Understanding multilingual young adults and adolescents' digital literacies in the wilds: Implications for language and literacy classrooms. *Issues and Trends in Learning Technologies 9*(1), 27-46. doi: https://doi.org/10.2458/azu_itlt_v9i1_han](https://journals.librarypublishing.arizona.edu/itlt/article/id/2277/)
@@ -30,8 +32,6 @@ Han, Y. (2020). The detective story: Solving the murder. In U. Nurmukhamedov & R
 [Chen, W., Han, Y., Lyu, Q., Tan, J. S. H., Chai, A. S. C., & Su, J. (2022). Deepening students' understanding of socio-scientific issues through graph-oriented computer supported collaborative argumentation: An exploratory study. *15th International Conference on Computer-Supported Collaborative Learning (CSCL) – Proceedings*, 115-122.](https://repository.nie.edu.sg/handle/10497/24340)
 
 ### In Preparation
-
-Han, Y., & Smith, B. E. (in press, *Language Learning & Technology*). An ecological perspective on the use of memes for language learning. 
 
 Chen, W., Han, Y., Tan, J., Lyu, Q., & Chai, A. (revise and resubmit). Computer-supported collaborative argumentation for socioscientific issues in a secondary literacy classroom.
 
