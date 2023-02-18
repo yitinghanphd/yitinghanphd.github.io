@@ -6,7 +6,7 @@ permalink: /publications/
 ## Publications 学术发表
 ### Articles in Refereed Journals
 
-[Han, Y., & Smith, B. E. (2023). An ecological perspective on the use of memes for language learning. *Language Learning & Technology, 27*(2), 155–175. https://hdl.handle.net/10125/73507 (SSCI, Impact Factor = 4.31)](https://www.lltjournal.org/item/10125-73507/)
+[Han, Y., & Smith, B. E. (2023). An ecological perspective on the use of memes for language learning. *Language Learning & Technology, 27*(2), 155–175. https://hdl.handle.net/10125/73507 (SSCI, Impact Factor = 4.69)](https://www.lltjournal.org/item/10125-73507/)
 
 [Han,Y., & Reinhardt, J. (2022). Autonomy in the digital wilds: Agency, competence, and self-efficacy in the development of L2 digital identities.*TESOL Quarterly, 56*(3), 985–1015. https://doi.org/10.1002/tesq.3142 (SSCI, Impact Factor = 3.69)](https://onlinelibrary.wiley.com/doi/10.1002/tesq.3142)
 
@@ -18,7 +18,7 @@ permalink: /publications/
 
 [Han, Y. (2019). Memeing to learning: Exploring meaning-making in a language-learning chat group. *Technology in Language Teaching & Learning, 1*(2), 68–90.](https://www.castledown.com.au/journals/tltl/article/?reference=191)
 
-[Han, Y. (2019). Exploring multimedia, mobile learning, and place-based learning in linguacultural education. *Language Learning & Technology, 23*(3), 29–38. (SSCI, Impact Factor = 4.31)](https://www.lltjournal.org/item/10125-44692/)
+[Han, Y. (2019). Exploring multimedia, mobile learning, and place-based learning in linguacultural education. *Language Learning & Technology, 23*(3), 29–38. (SSCI, Impact Factor = 4.69)](https://www.lltjournal.org/item/10125-44692/)
 
 [Han, Y. (2019). Chinese L2 users as active social agents: Sentence final particles variation and identities. *Applied Pragmatics, 1*(1), 46–67.](https://benjamins.com/catalog/ap.00003.han)
 
