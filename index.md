@@ -9,7 +9,7 @@ layout: default
 title: About
 ---
 ![Yiting Han](readme1.jpg)
-## About Me 关于我 Check out my new site: [yitinghan.com](www.yitinghan.com)
+## About Me 关于我 Check out my new site: [yitinghan.com](https://www.yitinghan.com)
 
 I am currently a lecturer and teacher educator at [Singapore Centre for Chinese Language, Nanyang Technological University](https://www.sccl.sg/en/about/organizational-structure/staff/65-lecturer/1575-dr-han-yiting.html).
 
